@@ -73,5 +73,10 @@ code[class*="language-"],
     white-space: pre-wrap;
     word-break: break-all;
     word-wrap: break-word;
-    }
+}
+
+.logofont{
+    font-family: 'Racing Sans One', cursive;
+}
+
 
